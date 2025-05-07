@@ -169,12 +169,4 @@ public class MyHashSet<T> implements Iterable<T> {
     public int size() {
         return count;
     }
-
-//    public void ensureCapacity(int capacity) {
-//        this.capacity = capacity;
-//    }
-//
-//    public void ensureFillFactor(float fillFactor) {
-//        this.fillFactor = fillFactor;
-//    }
 }
